@@ -1,6 +1,7 @@
 # https://docs.synthetic.ydata.ai/2.0/getting-started/installation/
 # https://github.com/ydataai/ydata-synthetic/tree/dev/examples
 # https://github.com/ydataai/ydata-synthetic/blob/dev/examples/timeseries/DoppelGANger_FCC_MBA_Dataset.ipynb
+# https://github.com/stakahashy/fingan
 
 import pandas as pd
 import matplotlib.pyplot as plt
